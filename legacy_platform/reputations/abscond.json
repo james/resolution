@@ -1,0 +1,37 @@
+{
+  "username": "abscond",
+  "pgpKey": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCuPNiu2qS5ApzkJAQ2p1fAYi8gTqZmH+Izg5zJewe/vdPg6lU9czkn5NYzIp2ZlT3VjxdJGASlKh/B1iMtJ82Ol6KTEG7A49M3JVoFTuWSxUnLVh/LUqjsegZT1rqc/Z1ujj0bEUbvFhZPLAuP9k7FdQJSkhoHFNYhxcO1uRXqPFWyLm2GaTU2oEhyrJ0K4coerkRzZqNDHzQrpDDbKIdxDJW/oYAncV5LucH9LFxLHg8d28tZwQw2+y1T9+JCLx8qiSKt7SX4S3cpY9rZiNHIRelrYFaEDwZ3wFrbQ5seI2uOxL3EQKPxQ1jiUg9kbGdM9J6FebHRDLyIxURpcY3v james@abscond.org",
+  "averageRating": 3.6,
+  "reviewCount": 4,
+  "reviews": [
+    {
+        "date": 42585,
+        "customerName": "Cassie Robinson",
+        "rating": 4.5,
+        "title": "Roof tiling",
+        "description": "James was prompt, work was done to a high standard, and he tidied up after himself"
+    },
+    {
+        "date": 42432,
+        "customerName": "Gerry Daniels",
+        "rating": 4,
+        "title": "Fence building",
+        "description": "Was late for our initial appointment but great from then"
+    },
+    {
+        "date": 42084,
+        "customerName": "Sarah Bingley",
+        "rating": 2,
+        "title": "Shed clearance",
+        "description": "Didn't turn up to the job",
+        "response": "I had a family emergency. Tried contacting customer but was unable to get through."
+    },
+    {
+        "date": 42007,
+        "customerName": "Adam Slader",
+        "rating": 5,
+        "title": "Fencing job",
+        "description": "Perfect, have reccomended to many friends."
+    }
+  ]
+}
